@@ -1,0 +1,20 @@
+name: firebase_login_app
+description: A minimal Flutter app demonstrating Firebase Authentication (email/password).
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.6.0
+  firebase_auth: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

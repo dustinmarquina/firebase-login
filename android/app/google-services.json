@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "547677900481",
+    "firebase_url": "https://fir-kotlin-23c26-default-rtdb.firebaseio.com",
+    "project_id": "fir-kotlin-23c26",
+    "storage_bucket": "fir-kotlin-23c26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547677900481:android:b39454e27f7fb0f0154e40",
+        "android_client_info": {
+          "package_name": "com.example.findmyphoneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPMx3tbBXutDUDi64q96CXKQUcgYp1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547677900481:android:41c69adfda790dd6154e40",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPMx3tbBXutDUDi64q96CXKQUcgYp1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
