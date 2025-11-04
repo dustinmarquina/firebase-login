@@ -1,5 +1,12 @@
 # Firebase Login App (Flutter)
 
+DEMO:
+
+
+https://github.com/user-attachments/assets/92652f2b-4142-464c-8b30-fb1335078b04
+
+
+
 Minimal Flutter app demonstrating Firebase Authentication with email/password.
 
 What this includes
